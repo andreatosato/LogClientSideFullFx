@@ -1,4 +1,4 @@
- # LogClientSide Full Framework
+**LogClientSide Full Framework**
 
 Il progetto è formato da 3 applicativi:
 
